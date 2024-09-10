@@ -1,0 +1,16 @@
+# Projeto de Índice Remissivo
+
+Este projeto é um trabalho acadêmico da disciplina de Estrutura de Dados do curso de Análise e Desenvolvimento de Sistemas da Universidade de Fortaleza (UNIFOR). O objetivo deste projeto é desenvolver um programa para gerar um índice remissivo a partir de um texto e uma lista de palavras-chave, utilizando as estruturas de dados fundamentais estudadas ao longo do curso.
+
+Os participantes deste projeto são:
+
+- Abrahao Levy Barbosa de Lavor
+- Cloberto de Sousa Gonçalves - 2326300
+- Isadora Ianne Aguiar de Castro - 2323864
+- José Marcondes Rodrigues da Silva Júnior - 2326642
+- Jonarta Santiago Soares - 2327349
+- Rayane dos Santos Silva - 2326292
+
+O projeto foi desenvolvido com base nos conceitos de tabelas hash e listas encadeadas, com o intuito de demonstrar a aplicação prática dessas estruturas de dados para a criação de um índice remissivo eficiente e funcional. 
+
+Agradecemos ao professor e aos colegas por todo o suporte e feedback durante o desenvolvimento deste trabalho.
